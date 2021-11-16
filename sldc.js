@@ -24,9 +24,9 @@ Maintain
     Create a variable for each of the above steps of the Software Development
      Lifecycle and set the values of each variable to a definition of the step.
 */
-let a = Planning 
-let b = AnalyisofRequirement
-let c = Design 
-let d = Implementation 
-let e = Testing & Integration 
-let f = Maintain
+let planning = "What do we want?";
+let analyisofRequirement = "How will we get what we want?";
+let design = "Create what we want";
+let Implementation = "Share what we have created.";
+let testingandIntegration = "Reform what we've created";
+let maintain = "Fix and add updated to what we have created"
